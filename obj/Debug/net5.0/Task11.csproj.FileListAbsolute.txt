@@ -1,0 +1,16 @@
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.exe
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.deps.json
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.runtimeconfig.json
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.runtimeconfig.dev.json
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.dll
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\ref\Task11.dll
+C:\Users\mkali\source\repos\Task11\bin\Debug\net5.0\Task11.pdb
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.csprojAssemblyReference.cache
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.AssemblyInfoInputs.cache
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.AssemblyInfo.cs
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.csproj.CoreCompileInputs.cache
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.dll
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\ref\Task11.dll
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.pdb
+C:\Users\mkali\source\repos\Task11\obj\Debug\net5.0\Task11.genruntimeconfig.cache
